@@ -1,8 +1,8 @@
 # My-Shows
 
-A web-based project. Similar to bookmyshow website with some additional innovative features.
+<p align="justify">A web-based project. Similar to bookmyshow website with some additional innovative features.
 Facility to store the information of the new customer, different types of movie show timing, ticket rates of different types on show class etc.
-Ability to the **Admin** to add or remove slides of slider, add/update/delete movies, apply or remove **social distancing** to multiplexes, apply **coupon codes** to users.
+Ability to the **Admin** to add or remove slides of slider, add/update/delete movies, apply or remove **social distancing** to multiplexes, apply **coupon codes** to users.</p>
 
 ---
 
